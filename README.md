@@ -13,3 +13,5 @@ Steps to reproduce :
 **Frequency domain**
 
 ![frequency domain](./power_spectrum.png)
+
+Credit : Code adapted from https://en.wikipedia.org/wiki/Marsaglia_polar_method
